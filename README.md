@@ -11,6 +11,11 @@
 
 The Payroll Calculator is a tool designed to simplify the process of calculating employee salaries, deductions, and net pay. It is ideal for small to medium-sized businesses looking to streamline their payroll operations.
 
+## App Preview
+
+![image](https://github.com/user-attachments/assets/154e0787-ea26-4ccf-97c2-b52f1a5e669a)
+
+
 ## Features
 
 - **Salary Calculation**: Automatically calculates gross and net salary based on input data.
